@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-tech:
+- 📡 Visiting my onw blog website and contact me [here](https://shaoyuanhangyes.github.io)
 - 📩 Send email and ask me anything [here](mailto:shaoyuanhangoutlook@gmail.com)
 - 📓 I'm currently practicing datastructure and algorithm with [LeetCode](https://leetcode-cn.com/)
-- 💻 I'm preparing to participate in postgraduate entrance exam and [time is almost up](http://shaoyuanhangyes.cn/#when]
+- 💻 I'm preparing to participate in postgraduate entrance exam [time](http://shaoyuanhangyes.cn/#when)
 [![shaoyuanhangyes](https://github-readme-stats.vercel.app/api?username=shaoyuanhangyes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
 
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=LeetCode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
