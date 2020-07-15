@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-tech:
+- 📩 Send email and ask me anything [here](mailto:shaoyuanhangoutlook@gmail.com)
+- 📓 I'm currently practicing datastructure and algorithm with [LeetCode](https://leetcode-cn.com/)
+- 💻 I'm preparing to participate in postgraduate entrance exam and time is almost up[clock](http://shaoyuanhangyes.cn/#when]
+[![shaoyuanhangyes](https://github-readme-stats.vercel.app/api?username=shaoyuanhangyes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
 
-[![LeetCode](https://github-readme-stats.vercel.app/api?username=shaoyuanhangyes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
+[![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=LeetCode)](https://github.com/shaoyuanhangyes/LeetCode)
+[![Server](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=Server)](https://github.com/shaoyuanhangyes/Server)
