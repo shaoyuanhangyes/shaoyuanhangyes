@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-tech:
-- 📡 Visiting my onw blog website and contact me [here](https://shaoyuanhangyes.github.io)
+- 📡 Visiting my own blog website and contact me [here](https://shaoyuanhangyes.github.io)
 - 📩 Send email and ask me anything [here](mailto:shaoyuanhangoutlook@gmail.com)
 - 📓 I'm currently practicing datastructure and algorithm with [LeetCode](https://leetcode-cn.com/)
 - 💻 I'm preparing to participate in postgraduate entrance exam [time](http://shaoyuanhangyes.cn/#when)
