@@ -20,6 +20,11 @@ Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-
 - 📓 I'm currently practicing datastructure and algorithm in [LeetCode](https://leetcode-cn.com/)
 - 💻 I'm preparing to participate in postgraduate entrance exam [time](http://shaoyuanhangyes.cn/#when)
 
+#### Follow Me
+[My Blog](https://shaoyuanhangyes.github.io)
+[My Wechat Official Subscription](https://mmbiz.qpic.cn/mmbiz_jpg/qDGMcCicRerNOJhzcqxzSRRPRs4e7loX4BVeXkwgKAbJ4z23aicicefGcLaxwx88RNd8expJ6cdQWACZBa4zyoP8Q/0?wx_fmt=jpeg)
+[Zhihu](https://www.zhihu.com/people/shao-yuan-hang-10)
+
 [![shaoyuanhangyes](https://github-readme-stats.vercel.app/api?username=shaoyuanhangyes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/shaoyuanhangyes)
 
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=LeetCode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
