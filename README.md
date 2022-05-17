@@ -29,3 +29,5 @@ Hi I'm Syh,also called Ruojhen,a developer indending to change world with cyber-
 
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=LeetCode&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/LeetCode)
 [![Server](https://github-readme-stats.vercel.app/api/pin/?username=shaoyuanhangyes&repo=Server&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/shaoyuanhangyes/Server)
+
+I am fond of Star.Trek, Sword Art Online, MCU, MasterDuel, Rockstar Game, Call of Duty...etc
